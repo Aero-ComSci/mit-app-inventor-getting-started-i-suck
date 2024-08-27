@@ -5,8 +5,10 @@ In this repository you will be turning in your cookie clicker sim created on MIT
 ## What to include
 
 1. Your source file, this can be obtained by clicking on Projects / Export selected project to my computer![image](https://github.com/user-attachments/assets/f99cff16-16e3-4e1e-afc7-9da69f0e47f4) __place on files__ Use the file upload
-2. Image of your design view, __place on read me__ via screenshot then copy paste
-3. Image of your code, can be done by right clicking and download blocks as image or by screenshot, __place on readme__
-4. Add a quick reflection(2 sentences) about what was difficult __Place on Readme__
+2. Image of your design view, __place on read me__ via screenshot then copy paste![image](https://github.com/user-attachments/assets/f89f7ed2-8905-49ad-9a77-bb133096b862)
 
+3. Image of your code, can be done by right clicking and download blocks as image or by screenshot, __place on readme__![blocks](https://github.com/user-attachments/assets/aeb63216-fa83-47c6-a2d9-5b8071e3e7e6)
+
+4. Add a quick reflection(2 sentences) about what was difficult __Place on Readme__
+I tried doing the project a different way and it worked better for me. I added my own kick to the game which had upgrades
 
